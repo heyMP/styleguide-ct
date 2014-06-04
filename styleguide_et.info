@@ -1,0 +1,4 @@
+name = Styleguide Entity Types
+description = List Entity Types in the Styleguide
+core = 7.x
+dependencies[] = styleguide
